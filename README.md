@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on building websites using tailwind css.
 - ✨ Fun Fact: I love gaming. I mostly play open-world games.
 
-### Languages and Tools
-💻 Languages
+
+### 💻 Languages
 - Python
 - Java
 - C#
