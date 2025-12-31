@@ -31,6 +31,7 @@
 - Dev Tools
 - Cisco Packet Tracer
 - WinBox
+- XAMPP Control Panel
 
 ## Here's how you can reach me:
 📧 <u>ralphfrncisco@gmail.com</u>
