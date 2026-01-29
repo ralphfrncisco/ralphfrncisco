@@ -3,7 +3,7 @@
 ### 📍 About me
 - 🎓 I'm a recent BSIT graduate from University of the East-Caloocan.
 - 💻 I specializes in web development.
-- 🔭 I’m currently working on building websites using React JS & Tailwind css.
+- 🔭 I’m currently working on building websites using React JS & Tailwind CSS.
 - ✨ Fun Fact: I love gaming. I mostly play open-world games.
 - 🌐 Check out my site for more info: 👉 https://ralphfrancisco.vercel.app/
 
