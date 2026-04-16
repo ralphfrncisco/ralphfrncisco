@@ -20,7 +20,7 @@
 - PHP
 - CSS BootStrap
 - Tailwind CSS
-- React JS
+- React
 
 ### ⚙️ Tools
 - Visual Studio Code
